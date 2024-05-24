@@ -1,1 +1,1 @@
-Adicionando conexão através do Postgresql por PHP, preparando solo para progamação usando validação em 3 camadas(Interface/FrontEnd, BackEnd e Banco de Dados)
+Adding connection through PostgreSQL via PHP, preparing the groundwork for programming using three-layer validation (Interface/FrontEnd, BackEnd, and Database)
